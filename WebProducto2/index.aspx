@@ -11,6 +11,18 @@
     <form id="form1" runat="server">
     <div>
     
+        Carniceria<br />
+        <br />
+        <br />
+        <asp:Button ID="btn_registrar" runat="server" Text="Registrate" />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        publicidad de los productos<br />
+        <br />
+    
     </div>
     </form>
 </body>
