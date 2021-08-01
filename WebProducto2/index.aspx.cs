@@ -13,5 +13,15 @@ namespace WebProducto2
         {
 
         }
+
+        protected void btn_registrar_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        protected void TextBox1_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }

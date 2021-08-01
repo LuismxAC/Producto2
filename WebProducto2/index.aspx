@@ -14,11 +14,12 @@
         Carniceria<br />
         <br />
         <br />
-        <asp:Button ID="btn_registrar" runat="server" Text="Registrate" />
+        <asp:Button ID="btn_registrar" runat="server" Text="Registrate" OnClick="btn_registrar_Click" />
         <br />
         <br />
         <br />
         <br />
+        <asp:TextBox ID="TextBox1" runat="server" OnTextChanged="TextBox1_TextChanged"></asp:TextBox>
         <br />
         publicidad de los productos<br />
         <br />

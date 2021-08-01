@@ -24,6 +24,7 @@
     <UseGlobalApplicationHostFile />
     <NuGetPackageImportStamp>
     </NuGetPackageImportStamp>
+    <Use64BitIISExpress />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
@@ -94,6 +95,7 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="OperacionesCliente.aspx" />
     <Content Include="packages.config" />
     <Content Include="ApplicationInsights.config">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
@@ -119,7 +121,24 @@
     <Compile Include="index.aspx.designer.cs">
       <DependentUpon>index.aspx</DependentUpon>
     </Compile>
+    <Compile Include="OperacionesCliente.aspx.cs">
+      <DependentUpon>OperacionesCliente.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="OperacionesCliente.aspx.designer.cs">
+      <DependentUpon>OperacionesCliente.aspx</DependentUpon>
+    </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ClassCapaIntedidades\ClassCapaEntedidades.csproj">
+      <Project>{62ede2e7-222e-4fdc-94ce-2828af96cbaf}</Project>
+      <Name>ClassCapaEntedidades</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ClassLogicaNegocioCarniceria\ClassLogicaNegocioCarniceria.csproj">
+      <Project>{f3517d58-f2e7-4544-88ac-7a80b03b9966}</Project>
+      <Name>ClassLogicaNegocioCarniceria</Name>
+    </ProjectReference>
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>

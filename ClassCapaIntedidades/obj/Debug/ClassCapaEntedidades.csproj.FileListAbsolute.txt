@@ -1,0 +1,6 @@
+C:\Users\Casa\Documents\Producto2guillermo\WebProducto2\ClassCapaIntedidades\bin\Debug\ClassCapaIntedidades.dll
+C:\Users\Casa\Documents\Producto2guillermo\WebProducto2\ClassCapaIntedidades\bin\Debug\ClassCapaIntedidades.pdb
+C:\Users\Casa\Documents\Producto2guillermo\WebProducto2\ClassCapaIntedidades\obj\Debug\ClassCapaEntedidades.csprojAssemblyReference.cache
+C:\Users\Casa\Documents\Producto2guillermo\WebProducto2\ClassCapaIntedidades\obj\Debug\ClassCapaEntedidades.csproj.CoreCompileInputs.cache
+C:\Users\Casa\Documents\Producto2guillermo\WebProducto2\ClassCapaIntedidades\obj\Debug\ClassCapaIntedidades.dll
+C:\Users\Casa\Documents\Producto2guillermo\WebProducto2\ClassCapaIntedidades\obj\Debug\ClassCapaIntedidades.pdb

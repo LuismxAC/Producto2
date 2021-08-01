@@ -1,0 +1,11 @@
+C:\Users\Casa\Documents\Producto2guillermo\WebProducto2\ClassLogicaNegocioCarniceria\bin\Debug\ClassLogicaNegocioCarniceria.dll
+C:\Users\Casa\Documents\Producto2guillermo\WebProducto2\ClassLogicaNegocioCarniceria\bin\Debug\ClassLogicaNegocioCarniceria.pdb
+C:\Users\Casa\Documents\Producto2guillermo\WebProducto2\ClassLogicaNegocioCarniceria\bin\Debug\ClassAccesoSQL.dll
+C:\Users\Casa\Documents\Producto2guillermo\WebProducto2\ClassLogicaNegocioCarniceria\bin\Debug\ClassAccesoSQL.pdb
+C:\Users\Casa\Documents\Producto2guillermo\WebProducto2\ClassLogicaNegocioCarniceria\obj\Debug\ClassLogicaNegocioCarniceria.csprojAssemblyReference.cache
+C:\Users\Casa\Documents\Producto2guillermo\WebProducto2\ClassLogicaNegocioCarniceria\obj\Debug\ClassLogicaNegocioCarniceria.csproj.CoreCompileInputs.cache
+C:\Users\Casa\Documents\Producto2guillermo\WebProducto2\ClassLogicaNegocioCarniceria\obj\Debug\ClassLogicaNegocioCarniceria.csproj.CopyComplete
+C:\Users\Casa\Documents\Producto2guillermo\WebProducto2\ClassLogicaNegocioCarniceria\obj\Debug\ClassLogicaNegocioCarniceria.dll
+C:\Users\Casa\Documents\Producto2guillermo\WebProducto2\ClassLogicaNegocioCarniceria\obj\Debug\ClassLogicaNegocioCarniceria.pdb
+C:\Users\Casa\Documents\Producto2guillermo\WebProducto2\ClassLogicaNegocioCarniceria\bin\Debug\ClassCapaIntedidades.dll
+C:\Users\Casa\Documents\Producto2guillermo\WebProducto2\ClassLogicaNegocioCarniceria\bin\Debug\ClassCapaIntedidades.pdb
